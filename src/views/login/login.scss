@@ -1,0 +1,34 @@
+@import '../../assets/css/root.scss';
+
+body.login-page {
+    background: $primary-color;
+}
+
+.main-login {
+    background-color: #FFF;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 500px;
+    margin: 50px auto;
+
+    h1 {
+        margin: 0;
+        padding: 0px 30px;
+        line-height: 70px;
+        border-bottom: #DDD 1px solid;
+    }
+
+    form {
+        padding: 30px;
+    }
+
+    .loginbtn {
+        width: 100%;
+        padding: 14px 20px;
+        font-size: 16px;
+        background-color: $primary-color;
+        color: #FFFFFF;
+        border: none;
+        border-radius: 6px;
+    }
+}

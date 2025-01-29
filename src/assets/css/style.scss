@@ -1,0 +1,56 @@
+@import './root';
+@import './header';
+@import './sidenav';
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", serif;
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+}
+
+* {
+    scrollbar-color: $scrollbar-color $scrollbar-bg-color;
+    scrollbar-width: thin;
+
+    &::-webkit-scrollbar-track {
+        background-color: $scrollbar-bg-color;
+    }
+
+    &::-webkit-scrollbar {
+        width: $scrollbar-width;
+        background-color: $scrollbar-bg-color;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background-color: $scrollbar-bg-color;
+    }
+}
+
+label {
+    font-size: 16px;
+    display: block;
+    line-height: 22px;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 14px 20px;
+    font-size: 16px;
+    border: #949494 1px solid;
+    border-radius: 6px;
+}
+
+.errormsg {
+    height: 24px;
+    line-height: 20px;
+    font-size: 13px;
+    color: #DB0000;
+}

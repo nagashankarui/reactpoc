@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Diversity Analytics Dashboard",
+        "icon": "faGauge",
+        "link": "diversity-analytics.html"
+    },
+    {
+        "id": 2,
+        "name": "Supplier Sustainability Dashboard",
+        "icon": "faFileInvoiceDollar",
+        "link": "supplier-sustainability.html"
+    },
+    {
+        "id": 3,
+        "name": "Certification Report",
+        "icon": "faFileShield",
+        "link": "certification-report.html"
+    },
+    {
+        "id": 4,
+        "name": "Diverse Supplier Lookup",
+        "icon": "faChartColumn",
+        "link": "diverse-supplier-lookup.html"
+    },
+    {
+        "id": 5,
+        "name": "Federal Report",
+        "icon": "faBuildingColumns",
+        "link": "federal-report.html"
+    },
+    {
+        "id": 6,
+        "name": "Projects",
+        "icon": "faList",
+        "link": "projects.html"
+    }
+]

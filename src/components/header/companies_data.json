@@ -1,0 +1,2871 @@
+[
+    {
+        "id": 1,
+        "companyName": "Fernandez Ltd",
+        "address": "4058 Hull Village Apt. 295\nAshleychester, UT 44282",
+        "socialNetworks": [
+            "https://jackson.com/",
+            "http://dominguez-hernandez.net/",
+            "https://soto.com/"
+        ],
+        "employees": "4920 - 7318",
+        "revenues": "$73M - $350M",
+        "established": 1971,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Sustainability Board",
+            "Innovation Hub",
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Sharon Mccoy",
+                "designation": "CEO",
+                "email": "katherine27@lin.com"
+            },
+            {
+                "name": "Kristen Harris",
+                "designation": "CTO",
+                "email": "amandahouse@yahoo.com"
+            },
+            {
+                "name": "April Torres",
+                "designation": "CFO",
+                "email": "kristin83@evans.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            },
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            }
+        ],
+        "website": "https://www.scott-taylor.biz/",
+        "contactNumber": "001-263-995-8114x9404",
+        "certifications": [
+            "HIPAA Compliant"
+        ],
+        "partnerships": [
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 2,
+        "companyName": "Smith-Bell",
+        "address": "14259 Alexis Plain\nTammyfort, TX 75220",
+        "socialNetworks": [
+            "http://www.jackson-richards.org/",
+            "http://www.taylor-hunter.biz/",
+            "https://brown.net/"
+        ],
+        "employees": "1296 - 6852",
+        "revenues": "$81M - $241M",
+        "established": 1974,
+        "organizationStructure": "Education",
+        "councils": [
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Jessica Gonzales",
+                "designation": "CEO",
+                "email": "miguelbeck@rivera-shelton.com"
+            },
+            {
+                "name": "Kimberly Hoover",
+                "designation": "CTO",
+                "email": "srichardson@yahoo.com"
+            },
+            {
+                "name": "Andrea Ward",
+                "designation": "CFO",
+                "email": "wrightmelinda@yahoo.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            }
+        ],
+        "website": "https://wallace.biz/",
+        "contactNumber": "009-936-0319",
+        "certifications": [
+            "ISO 9001",
+            "HIPAA Compliant"
+        ],
+        "partnerships": [
+            "AWS Partner Network",
+            "Google Cloud Partner",
+            "SolarCity"
+        ]
+    },
+    {
+        "id": 3,
+        "companyName": "Ward, Richardson and May",
+        "address": "279 Knight Port\nMoorehaven, NE 27953",
+        "socialNetworks": [
+            "http://www.reed.com/",
+            "http://www.huff-wright.com/",
+            "https://www.simpson-anderson.biz/"
+        ],
+        "employees": "2129 - 8171",
+        "revenues": "$20M - $726M",
+        "established": 2004,
+        "organizationStructure": "Corporation",
+        "councils": [
+            "Tech Alliance",
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Jenny Boyd",
+                "designation": "CEO",
+                "email": "jacquelinewalker@shaw-cobb.org"
+            },
+            {
+                "name": "Benjamin Steele",
+                "designation": "CTO",
+                "email": "kimberly32@yahoo.com"
+            },
+            {
+                "name": "Ethan Turner",
+                "designation": "CFO",
+                "email": "jeffreywilliamson@hart.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            }
+        ],
+        "website": "https://smith-austin.net/",
+        "contactNumber": "001-772-294-0925x61607",
+        "certifications": [
+            "LEED Certified"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "Tesla Energy"
+        ]
+    },
+    {
+        "id": 4,
+        "companyName": "White Group",
+        "address": "USCGC Johnson\nFPO AE 69072",
+        "socialNetworks": [
+            "http://www.young.com/",
+            "http://www.poole.com/",
+            "https://www.rivas.net/"
+        ],
+        "employees": "1660 - 6686",
+        "revenues": "$88M - $592M",
+        "established": 1974,
+        "organizationStructure": "Corporation",
+        "councils": [
+            "Startup Council",
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Joan Smith",
+                "designation": "CEO",
+                "email": "cruzmichael@stevenson.com"
+            },
+            {
+                "name": "Thomas Johnston",
+                "designation": "CTO",
+                "email": "garzasteven@foster.net"
+            },
+            {
+                "name": "John Perez",
+                "designation": "CFO",
+                "email": "moorerobert@zhang.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            }
+        ],
+        "website": "https://www.barnett.info/",
+        "contactNumber": "(699)368-0754x53449",
+        "certifications": [
+            "LEED Certified"
+        ],
+        "partnerships": [
+            "Google Cloud Partner",
+            "Microsoft Partner",
+            "Tesla Energy"
+        ]
+    },
+    {
+        "id": 5,
+        "companyName": "Rios-Lee",
+        "address": "797 Perez Glen Apt. 649\nWilsonport, NH 74147",
+        "socialNetworks": [
+            "http://www.kelley.net/",
+            "http://www.jones-walker.com/",
+            "https://www.rocha.com/"
+        ],
+        "employees": "3186 - 8342",
+        "revenues": "$98M - $632M",
+        "established": 1999,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Startup Council",
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Sarah Vance",
+                "designation": "CEO",
+                "email": "smithjim@gmail.com"
+            },
+            {
+                "name": "Tamara Grant",
+                "designation": "CTO",
+                "email": "justin38@yahoo.com"
+            },
+            {
+                "name": "Tyler Miller",
+                "designation": "CFO",
+                "email": "villegassandra@gmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            }
+        ],
+        "website": "http://chavez.com/",
+        "contactNumber": "400.072.9593x4456",
+        "certifications": [
+            "ISO 27001",
+            "Energy Star Partner"
+        ],
+        "partnerships": [
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 6,
+        "companyName": "Morgan, Gonzalez and Lopez",
+        "address": "123 Mueller Mountain Apt. 767\nNew Matthew, AL 76245",
+        "socialNetworks": [
+            "https://ashley.com/",
+            "http://fuller.com/",
+            "https://www.james.com/"
+        ],
+        "employees": "3168 - 8381",
+        "revenues": "$65M - $243M",
+        "established": 1971,
+        "organizationStructure": "Corporation",
+        "councils": [
+            "Tech Alliance",
+            "Sustainability Board",
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Ray Flores",
+                "designation": "CEO",
+                "email": "elizabethrogers@mccoy.biz"
+            },
+            {
+                "name": "Luis Smith",
+                "designation": "CTO",
+                "email": "carriecross@gmail.com"
+            },
+            {
+                "name": "Tamara Reynolds",
+                "designation": "CFO",
+                "email": "brandon84@wells.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            }
+        ],
+        "website": "https://www.brown.com/",
+        "contactNumber": "001-667-421-2781x0165",
+        "certifications": [
+            "ISO 27001",
+            "HIPAA Compliant",
+            "LEED Certified"
+        ],
+        "partnerships": [
+            "AWS Partner Network",
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 7,
+        "companyName": "Powers, Thompson and Shah",
+        "address": "870 Lee Ranch Suite 262\nOwensstad, WA 11426",
+        "socialNetworks": [
+            "http://www.patel.info/",
+            "http://www.williams.org/",
+            "https://thompson.com/"
+        ],
+        "employees": "2070 - 9079",
+        "revenues": "$53M - $949M",
+        "established": 1975,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Sustainability Board",
+            "Innovation Hub"
+        ],
+        "executives": [
+            {
+                "name": "Daniel Norris",
+                "designation": "CEO",
+                "email": "david68@rogers.net"
+            },
+            {
+                "name": "Amy Harris",
+                "designation": "CTO",
+                "email": "lawrence85@johnson.info"
+            },
+            {
+                "name": "Kellie Ashley",
+                "designation": "CFO",
+                "email": "shannonhanson@yahoo.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "https://www.osborne-sullivan.org/",
+        "contactNumber": "552-887-0676",
+        "certifications": [
+            "LEED Certified",
+            "HIPAA Compliant",
+            "ISO 27001"
+        ],
+        "partnerships": [
+            "AWS Partner Network",
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 8,
+        "companyName": "Chapman LLC",
+        "address": "5279 Morse Spur Suite 446\nAshleyshire, SC 45334",
+        "socialNetworks": [
+            "http://cain.info/",
+            "http://house.com/",
+            "http://www.gomez-mcmillan.com/"
+        ],
+        "employees": "3914 - 9446",
+        "revenues": "$57M - $911M",
+        "established": 1985,
+        "organizationStructure": "Healthcare",
+        "councils": [
+            "Tech Alliance",
+            "Environmental Council",
+            "Startup Council"
+        ],
+        "executives": [
+            {
+                "name": "Jeremy Newman",
+                "designation": "CEO",
+                "email": "kimberly81@craig.com"
+            },
+            {
+                "name": "Jessica Garcia",
+                "designation": "CTO",
+                "email": "walkerbeth@atkinson.org"
+            },
+            {
+                "name": "Juan Wallace",
+                "designation": "CFO",
+                "email": "sullivandavid@yahoo.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            },
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "https://www.rowe.net/",
+        "contactNumber": "972-409-3638x83349",
+        "certifications": [
+            "ISO 27001"
+        ],
+        "partnerships": [
+            "Google Cloud Partner",
+            "Microsoft Partner",
+            "SolarCity"
+        ]
+    },
+    {
+        "id": 9,
+        "companyName": "Hampton and Sons",
+        "address": "0413 Courtney Branch Suite 061\nJasonville, RI 07038",
+        "socialNetworks": [
+            "https://freeman.com/",
+            "https://www.garrett.net/",
+            "http://martin-farley.com/"
+        ],
+        "employees": "1742 - 6101",
+        "revenues": "$76M - $901M",
+        "established": 2011,
+        "organizationStructure": "Education",
+        "councils": [
+            "Tech Alliance",
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Evan Jones",
+                "designation": "CEO",
+                "email": "xjones@gilbert.com"
+            },
+            {
+                "name": "Rebecca Smith",
+                "designation": "CTO",
+                "email": "john25@yahoo.com"
+            },
+            {
+                "name": "Thomas Paul",
+                "designation": "CFO",
+                "email": "tatejill@duarte.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "https://www.taylor-medina.biz/",
+        "contactNumber": "5443985417",
+        "certifications": [
+            "ISO 27001"
+        ],
+        "partnerships": [
+            "Tesla Energy",
+            "AWS Partner Network"
+        ]
+    },
+    {
+        "id": 10,
+        "companyName": "Smith-Hanna",
+        "address": "652 Robin Court Apt. 904\nClinefort, MS 59459",
+        "socialNetworks": [
+            "http://young.com/",
+            "http://bender.net/",
+            "https://martinez-dennis.net/"
+        ],
+        "employees": "4528 - 9853",
+        "revenues": "$98M - $999M",
+        "established": 2007,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Startup Council",
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "James Oconnor",
+                "designation": "CEO",
+                "email": "cnichols@yahoo.com"
+            },
+            {
+                "name": "Kenneth Rogers",
+                "designation": "CTO",
+                "email": "gbradshaw@stuart.com"
+            },
+            {
+                "name": "Patricia Anderson",
+                "designation": "CFO",
+                "email": "wlin@clark.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            }
+        ],
+        "website": "http://www.davenport.com/",
+        "contactNumber": "426.904.0922",
+        "certifications": [
+            "LEED Certified",
+            "Energy Star Partner",
+            "HIPAA Compliant"
+        ],
+        "partnerships": [
+            "AWS Partner Network",
+            "Tesla Energy",
+            "SolarCity"
+        ]
+    },
+    {
+        "id": 11,
+        "companyName": "Porter Group",
+        "address": "44430 Williams Passage Suite 297\nCarolfort, HI 41583",
+        "socialNetworks": [
+            "http://www.best.com/",
+            "http://hill-lewis.net/",
+            "https://mills.com/"
+        ],
+        "employees": "557 - 6392",
+        "revenues": "$42M - $776M",
+        "established": 1974,
+        "organizationStructure": "Healthcare",
+        "councils": [
+            "Startup Council"
+        ],
+        "executives": [
+            {
+                "name": "Kristopher Ayala",
+                "designation": "CEO",
+                "email": "joel47@yahoo.com"
+            },
+            {
+                "name": "Jennifer Garza DDS",
+                "designation": "CTO",
+                "email": "ljohnson@hobbs.com"
+            },
+            {
+                "name": "Brad Black",
+                "designation": "CFO",
+                "email": "dmoore@bates.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            }
+        ],
+        "website": "https://www.lewis-jensen.com/",
+        "contactNumber": "750-022-5600x33159",
+        "certifications": [
+            "LEED Certified",
+            "ISO 9001",
+            "ISO 27001"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "AWS Partner Network",
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 12,
+        "companyName": "Stephens-Taylor",
+        "address": "USCGC Ward\nFPO AE 72580",
+        "socialNetworks": [
+            "http://www.novak.com/",
+            "http://www.maynard.net/",
+            "http://www.brown-ford.com/"
+        ],
+        "employees": "3178 - 7691",
+        "revenues": "$78M - $813M",
+        "established": 1980,
+        "organizationStructure": "Technology",
+        "councils": [
+            "Sustainability Board",
+            "Tech Alliance",
+            "Startup Council"
+        ],
+        "executives": [
+            {
+                "name": "Christopher Deleon",
+                "designation": "CEO",
+                "email": "deannarussell@gmail.com"
+            },
+            {
+                "name": "Suzanne Macias",
+                "designation": "CTO",
+                "email": "qhunter@webster.com"
+            },
+            {
+                "name": "Carolyn King",
+                "designation": "CFO",
+                "email": "ericburton@gmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            }
+        ],
+        "website": "http://www.rodriguez.info/",
+        "contactNumber": "151-054-7753",
+        "certifications": [
+            "ISO 27001",
+            "ISO 9001",
+            "LEED Certified"
+        ],
+        "partnerships": [
+            "AWS Partner Network",
+            "Tesla Energy",
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 13,
+        "companyName": "Dougherty, Harris and Shaffer",
+        "address": "65419 Mejia Motorway Apt. 358\nPort Robert, ME 48925",
+        "socialNetworks": [
+            "https://www.clark.com/",
+            "http://www.keller.info/",
+            "http://www.alvarez-robinson.com/"
+        ],
+        "employees": "1482 - 9451",
+        "revenues": "$51M - $155M",
+        "established": 1993,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Sustainability Board",
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Mia Kim",
+                "designation": "CEO",
+                "email": "cherylmccall@gmail.com"
+            },
+            {
+                "name": "Justin Russell",
+                "designation": "CTO",
+                "email": "irobles@hotmail.com"
+            },
+            {
+                "name": "Morgan Woods",
+                "designation": "CFO",
+                "email": "johnsonjennifer@krueger-aguilar.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            }
+        ],
+        "website": "https://www.leon.biz/",
+        "contactNumber": "3865365079",
+        "certifications": [
+            "HIPAA Compliant"
+        ],
+        "partnerships": [
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 14,
+        "companyName": "Sherman-Olsen",
+        "address": "5393 Kendra Haven\nSouth Michaelfort, NY 62697",
+        "socialNetworks": [
+            "https://scott.com/",
+            "https://monroe.com/",
+            "https://brown.com/"
+        ],
+        "employees": "3847 - 7076",
+        "revenues": "$57M - $134M",
+        "established": 1985,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Innovation Hub",
+            "Sustainability Board"
+        ],
+        "executives": [
+            {
+                "name": "Wendy Long",
+                "designation": "CEO",
+                "email": "samuelroman@gmail.com"
+            },
+            {
+                "name": "Kevin Palmer",
+                "designation": "CTO",
+                "email": "wrightthomas@hotmail.com"
+            },
+            {
+                "name": "Debra Alexander",
+                "designation": "CFO",
+                "email": "shane42@gmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            }
+        ],
+        "website": "http://www.medina.com/",
+        "contactNumber": "193-232-6503x3250",
+        "certifications": [
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 15,
+        "companyName": "Herrera, Kennedy and Williams",
+        "address": "140 Fields Mountains Suite 590\nWilliamshire, OR 33426",
+        "socialNetworks": [
+            "https://rowe.com/",
+            "https://www.taylor.net/",
+            "http://www.carey-washington.net/"
+        ],
+        "employees": "1499 - 8339",
+        "revenues": "$76M - $653M",
+        "established": 1991,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Sustainability Board",
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Maria Sims",
+                "designation": "CEO",
+                "email": "charlesreyes@hotmail.com"
+            },
+            {
+                "name": "Ronald Rodriguez",
+                "designation": "CTO",
+                "email": "jsmith@hotmail.com"
+            },
+            {
+                "name": "Andrew Phillips",
+                "designation": "CFO",
+                "email": "allenkathy@mcguire.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            }
+        ],
+        "website": "http://morris.com/",
+        "contactNumber": "+1-503-607-5872x109",
+        "certifications": [
+            "ISO 27001"
+        ],
+        "partnerships": [
+            "Tesla Energy",
+            "SolarCity",
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 16,
+        "companyName": "Burch-Lucas",
+        "address": "25067 Jackson Tunnel\nEast Robertton, MO 54413",
+        "socialNetworks": [
+            "https://davis-stewart.com/",
+            "https://campos-thomas.com/",
+            "http://wiggins.com/"
+        ],
+        "employees": "665 - 6662",
+        "revenues": "$39M - $373M",
+        "established": 1991,
+        "organizationStructure": "Education",
+        "councils": [
+            "Sustainability Board",
+            "Tech Alliance",
+            "Innovation Hub"
+        ],
+        "executives": [
+            {
+                "name": "Amber Jones",
+                "designation": "CEO",
+                "email": "brownchristina@gmail.com"
+            },
+            {
+                "name": "Derek Hall",
+                "designation": "CTO",
+                "email": "coopercarol@hotmail.com"
+            },
+            {
+                "name": "Jennifer Clark",
+                "designation": "CFO",
+                "email": "rodriguezcraig@johnson.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "https://hicks.biz/",
+        "contactNumber": "9208765337",
+        "certifications": [
+            "LEED Certified"
+        ],
+        "partnerships": [
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 17,
+        "companyName": "Preston PLC",
+        "address": "3849 Elizabeth Groves\nNorth Patricia, AR 71936",
+        "socialNetworks": [
+            "http://www.mitchell-roach.com/",
+            "http://www.williams.com/",
+            "http://scott.com/"
+        ],
+        "employees": "4531 - 5472",
+        "revenues": "$12M - $261M",
+        "established": 2006,
+        "organizationStructure": "Corporation",
+        "councils": [
+            "Innovation Hub"
+        ],
+        "executives": [
+            {
+                "name": "Valerie Wilson",
+                "designation": "CEO",
+                "email": "ewilliams@kennedy.com"
+            },
+            {
+                "name": "Brenda Wong",
+                "designation": "CTO",
+                "email": "qcarr@hotmail.com"
+            },
+            {
+                "name": "Jose Rogers",
+                "designation": "CFO",
+                "email": "qjones@hotmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            }
+        ],
+        "website": "http://robinson.org/",
+        "contactNumber": "760.472.2348x350",
+        "certifications": [
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "Google Cloud Partner",
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 18,
+        "companyName": "Torres and Sons",
+        "address": "13939 Griffin Viaduct\nLake Maryland, KY 16217",
+        "socialNetworks": [
+            "https://stephens-johnson.net/",
+            "http://www.payne-daniel.biz/",
+            "https://www.miller.com/"
+        ],
+        "employees": "1799 - 5184",
+        "revenues": "$45M - $761M",
+        "established": 1988,
+        "organizationStructure": "Healthcare",
+        "councils": [
+            "Startup Council"
+        ],
+        "executives": [
+            {
+                "name": "Rachel Turner",
+                "designation": "CEO",
+                "email": "michelebuckley@williams-cruz.com"
+            },
+            {
+                "name": "Paul Roberts",
+                "designation": "CTO",
+                "email": "simpsonkevin@gmail.com"
+            },
+            {
+                "name": "Lawrence Garza",
+                "designation": "CFO",
+                "email": "ijohnson@hotmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "https://www.carter.com/",
+        "contactNumber": "665-471-4741x4626",
+        "certifications": [
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "Google Cloud Partner",
+            "Tesla Energy",
+            "SolarCity"
+        ]
+    },
+    {
+        "id": 19,
+        "companyName": "Maxwell Ltd",
+        "address": "52461 Lance Cape Apt. 911\nPort Shannon, LA 71028",
+        "socialNetworks": [
+            "http://sampson-spencer.biz/",
+            "https://alvarez.com/",
+            "http://www.scott.com/"
+        ],
+        "employees": "4458 - 6124",
+        "revenues": "$80M - $898M",
+        "established": 2019,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Carly Shaffer",
+                "designation": "CEO",
+                "email": "wbuck@hotmail.com"
+            },
+            {
+                "name": "David Glover",
+                "designation": "CTO",
+                "email": "hallrobert@yahoo.com"
+            },
+            {
+                "name": "Brianna Crawford",
+                "designation": "CFO",
+                "email": "kathleenbrown@carlson.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "http://horn.com/",
+        "contactNumber": "586-579-8346x3322",
+        "certifications": [
+            "ISO 27001",
+            "Energy Star Partner",
+            "LEED Certified"
+        ],
+        "partnerships": [
+            "AWS Partner Network",
+            "Tesla Energy"
+        ]
+    },
+    {
+        "id": 20,
+        "companyName": "Patterson, Anderson and Marshall",
+        "address": "61436 Garrett Mews Apt. 386\nMorrisonmouth, MN 65963",
+        "socialNetworks": [
+            "http://www.scott.com/",
+            "http://bradley.info/",
+            "https://www.thompson-solomon.com/"
+        ],
+        "employees": "4470 - 6810",
+        "revenues": "$66M - $814M",
+        "established": 1973,
+        "organizationStructure": "Education",
+        "councils": [
+            "Environmental Council",
+            "Startup Council",
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Steve Olson",
+                "designation": "CEO",
+                "email": "harrismichael@gmail.com"
+            },
+            {
+                "name": "Stephanie Carter",
+                "designation": "CTO",
+                "email": "cglenn@gmail.com"
+            },
+            {
+                "name": "Edward Smith",
+                "designation": "CFO",
+                "email": "laura93@hotmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            }
+        ],
+        "website": "http://cooper.com/",
+        "contactNumber": "001-498-669-0018x3207",
+        "certifications": [
+            "ISO 27001",
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "Tesla Energy",
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 21,
+        "companyName": "James LLC",
+        "address": "Unit 6370 Box 1338\nDPO AE 14879",
+        "socialNetworks": [
+            "http://long.com/",
+            "https://www.wood.com/",
+            "https://love.com/"
+        ],
+        "employees": "3312 - 7899",
+        "revenues": "$92M - $227M",
+        "established": 2001,
+        "organizationStructure": "Corporation",
+        "councils": [
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Angel Sandoval",
+                "designation": "CEO",
+                "email": "oneillkimberly@lee.com"
+            },
+            {
+                "name": "Alexandria Decker",
+                "designation": "CTO",
+                "email": "katherine46@malone.info"
+            },
+            {
+                "name": "Bryan Wheeler",
+                "designation": "CFO",
+                "email": "adamsandrea@pugh.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            }
+        ],
+        "website": "http://richard.info/",
+        "contactNumber": "513.507.9170x040",
+        "certifications": [
+            "ISO 27001"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "Microsoft Partner",
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 22,
+        "companyName": "Taylor, Mitchell and Duarte",
+        "address": "USNS Smith\nFPO AA 14354",
+        "socialNetworks": [
+            "http://weber.info/",
+            "http://www.campbell-harvey.com/",
+            "https://davis.com/"
+        ],
+        "employees": "2722 - 8511",
+        "revenues": "$94M - $537M",
+        "established": 1970,
+        "organizationStructure": "Healthcare",
+        "councils": [
+            "Environmental Council",
+            "Sustainability Board"
+        ],
+        "executives": [
+            {
+                "name": "Kathy Chapman",
+                "designation": "CEO",
+                "email": "jennifer66@yahoo.com"
+            },
+            {
+                "name": "John Zamora",
+                "designation": "CTO",
+                "email": "mrobertson@may.com"
+            },
+            {
+                "name": "Jennifer Howard",
+                "designation": "CFO",
+                "email": "tinanelson@flynn-gilbert.biz"
+            }
+        ],
+        "products": [
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            }
+        ],
+        "website": "https://www.wilson-walker.org/",
+        "contactNumber": "777-611-7045x270",
+        "certifications": [
+            "HIPAA Compliant",
+            "ISO 27001"
+        ],
+        "partnerships": [
+            "Microsoft Partner",
+            "AWS Partner Network"
+        ]
+    },
+    {
+        "id": 23,
+        "companyName": "Kelly, Hansen and Jones",
+        "address": "3446 Anderson Spurs Suite 863\nNew William, IA 11094",
+        "socialNetworks": [
+            "http://caldwell.com/",
+            "http://www.schaefer.com/",
+            "https://www.wright.net/"
+        ],
+        "employees": "2032 - 6004",
+        "revenues": "$57M - $928M",
+        "established": 2016,
+        "organizationStructure": "Healthcare",
+        "councils": [
+            "Sustainability Board",
+            "Startup Council",
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Lisa Murphy",
+                "designation": "CEO",
+                "email": "jaclyn05@boyle.com"
+            },
+            {
+                "name": "Sean Potts",
+                "designation": "CTO",
+                "email": "uhogan@gmail.com"
+            },
+            {
+                "name": "Jacob Anderson",
+                "designation": "CFO",
+                "email": "rlester@hotmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            }
+        ],
+        "website": "https://stafford.com/",
+        "contactNumber": "(839)620-8823",
+        "certifications": [
+            "ISO 9001",
+            "LEED Certified"
+        ],
+        "partnerships": [
+            "Tesla Energy",
+            "AWS Partner Network",
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 24,
+        "companyName": "Hansen Ltd",
+        "address": "137 Mike Wells\nNorth Dawnmouth, OR 16958",
+        "socialNetworks": [
+            "https://rogers-thompson.com/",
+            "http://garcia.com/",
+            "https://warner.org/"
+        ],
+        "employees": "4274 - 6331",
+        "revenues": "$37M - $969M",
+        "established": 2016,
+        "organizationStructure": "Education",
+        "councils": [
+            "Startup Council"
+        ],
+        "executives": [
+            {
+                "name": "Wendy Macias",
+                "designation": "CEO",
+                "email": "barbara80@yahoo.com"
+            },
+            {
+                "name": "Christopher Pope",
+                "designation": "CTO",
+                "email": "paul66@yahoo.com"
+            },
+            {
+                "name": "Christian Brown",
+                "designation": "CFO",
+                "email": "erika90@ruiz.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            }
+        ],
+        "website": "https://smith.com/",
+        "contactNumber": "+1-834-209-9853x08749",
+        "certifications": [
+            "Energy Star Partner",
+            "ISO 27001"
+        ],
+        "partnerships": [
+            "SolarCity"
+        ]
+    },
+    {
+        "id": 25,
+        "companyName": "Stanley-Moses",
+        "address": "PSC 1395, Box 4067\nAPO AA 56183",
+        "socialNetworks": [
+            "http://www.porter.com/",
+            "http://www.skinner.com/",
+            "http://www.lopez.com/"
+        ],
+        "employees": "4117 - 8233",
+        "revenues": "$94M - $515M",
+        "established": 1989,
+        "organizationStructure": "Healthcare",
+        "councils": [
+            "Startup Council",
+            "Environmental Council",
+            "Sustainability Board"
+        ],
+        "executives": [
+            {
+                "name": "Debra Brown",
+                "designation": "CEO",
+                "email": "colton76@gmail.com"
+            },
+            {
+                "name": "Jeremiah Watson",
+                "designation": "CTO",
+                "email": "sbrown@roberts-thompson.com"
+            },
+            {
+                "name": "Brett Shepherd",
+                "designation": "CFO",
+                "email": "alexandernichols@lamb.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            }
+        ],
+        "website": "https://www.good.org/",
+        "contactNumber": "508.092.9640",
+        "certifications": [
+            "ISO 27001",
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 26,
+        "companyName": "Aguilar-Anderson",
+        "address": "3948 Lowe Ridges Apt. 982\nJoshuabury, MT 85793",
+        "socialNetworks": [
+            "https://www.beck.org/",
+            "http://www.matthews.com/",
+            "http://www.velasquez-roberts.org/"
+        ],
+        "employees": "2606 - 8937",
+        "revenues": "$70M - $969M",
+        "established": 1995,
+        "organizationStructure": "Corporation",
+        "councils": [
+            "Startup Council",
+            "Sustainability Board",
+            "Innovation Hub"
+        ],
+        "executives": [
+            {
+                "name": "William Doyle",
+                "designation": "CEO",
+                "email": "elizabethrodriguez@lewis.com"
+            },
+            {
+                "name": "Curtis Jimenez",
+                "designation": "CTO",
+                "email": "stephaniehill@yahoo.com"
+            },
+            {
+                "name": "Stacy Richardson",
+                "designation": "CFO",
+                "email": "adean@todd.info"
+            }
+        ],
+        "products": [
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "https://strong.com/",
+        "contactNumber": "+1-911-366-5842",
+        "certifications": [
+            "LEED Certified",
+            "ISO 27001",
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 27,
+        "companyName": "Rivera and Sons",
+        "address": "USCGC Hunter\nFPO AP 98193",
+        "socialNetworks": [
+            "https://www.shaw-ortiz.com/",
+            "https://www.lawson-collins.net/",
+            "https://www.david.org/"
+        ],
+        "employees": "1008 - 6117",
+        "revenues": "$52M - $699M",
+        "established": 1989,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Sustainability Board",
+            "Startup Council",
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Ryan Mckinney",
+                "designation": "CEO",
+                "email": "rodriguezkristy@brown.com"
+            },
+            {
+                "name": "Isaac Knight",
+                "designation": "CTO",
+                "email": "yjones@hotmail.com"
+            },
+            {
+                "name": "James Dixon",
+                "designation": "CFO",
+                "email": "mccormickjohn@gmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            },
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "http://williams.com/",
+        "contactNumber": "611.730.7600",
+        "certifications": [
+            "Energy Star Partner",
+            "ISO 9001",
+            "ISO 27001"
+        ],
+        "partnerships": [
+            "Microsoft Partner",
+            "Tesla Energy",
+            "AWS Partner Network"
+        ]
+    },
+    {
+        "id": 28,
+        "companyName": "Hill Inc",
+        "address": "72042 Ortiz Forge Apt. 384\nWest Jonathanstad, OK 27171",
+        "socialNetworks": [
+            "https://bowers.biz/",
+            "http://torres-sanders.org/",
+            "https://berry-holmes.com/"
+        ],
+        "employees": "2709 - 8417",
+        "revenues": "$22M - $663M",
+        "established": 1991,
+        "organizationStructure": "Technology",
+        "councils": [
+            "Tech Alliance",
+            "Sustainability Board"
+        ],
+        "executives": [
+            {
+                "name": "Anna Ross",
+                "designation": "CEO",
+                "email": "jennifer72@hotmail.com"
+            },
+            {
+                "name": "Amy Johnson",
+                "designation": "CTO",
+                "email": "melissa98@johnson.com"
+            },
+            {
+                "name": "Jennifer Wilson",
+                "designation": "CFO",
+                "email": "amanda57@juarez.net"
+            }
+        ],
+        "products": [
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            }
+        ],
+        "website": "https://ward.com/",
+        "contactNumber": "+1-085-517-7455x709",
+        "certifications": [
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 29,
+        "companyName": "Cook, Smith and Jordan",
+        "address": "1527 Lutz Land\nNorth Todd, WI 13782",
+        "socialNetworks": [
+            "https://www.white.org/",
+            "https://campbell.com/",
+            "https://swanson-cummings.com/"
+        ],
+        "employees": "4167 - 8013",
+        "revenues": "$56M - $238M",
+        "established": 1992,
+        "organizationStructure": "Technology",
+        "councils": [
+            "Tech Alliance",
+            "Innovation Hub"
+        ],
+        "executives": [
+            {
+                "name": "Theresa Jackson",
+                "designation": "CEO",
+                "email": "santiagomark@fitzgerald-davis.com"
+            },
+            {
+                "name": "John Booth",
+                "designation": "CTO",
+                "email": "darrellvasquez@hotmail.com"
+            },
+            {
+                "name": "Hayden Hill",
+                "designation": "CFO",
+                "email": "ericajones@gonzalez-anderson.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            }
+        ],
+        "website": "http://www.mitchell.com/",
+        "contactNumber": "713.545.3167x3417",
+        "certifications": [
+            "LEED Certified",
+            "ISO 27001",
+            "HIPAA Compliant"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "Tesla Energy"
+        ]
+    },
+    {
+        "id": 30,
+        "companyName": "Lewis-Diaz",
+        "address": "0782 Olivia Mill Apt. 640\nPort Emilyside, AZ 60564",
+        "socialNetworks": [
+            "http://www.crawford.com/",
+            "https://www.erickson.com/",
+            "http://www.scott.info/"
+        ],
+        "employees": "4291 - 7158",
+        "revenues": "$34M - $453M",
+        "established": 1976,
+        "organizationStructure": "Technology",
+        "councils": [
+            "Tech Alliance",
+            "Startup Council",
+            "Innovation Hub"
+        ],
+        "executives": [
+            {
+                "name": "Debra Bray",
+                "designation": "CEO",
+                "email": "yturner@kennedy-mcmahon.biz"
+            },
+            {
+                "name": "Donna Lewis",
+                "designation": "CTO",
+                "email": "ukelley@gmail.com"
+            },
+            {
+                "name": "Kathleen Simmons",
+                "designation": "CFO",
+                "email": "seanparks@hotmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "https://www.cox.org/",
+        "contactNumber": "514.941.6117",
+        "certifications": [
+            "LEED Certified"
+        ],
+        "partnerships": [
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 31,
+        "companyName": "Sanders Ltd",
+        "address": "USCGC Garcia\nFPO AP 59075",
+        "socialNetworks": [
+            "http://jacobs.com/",
+            "http://www.scott-young.com/",
+            "https://www.bishop.com/"
+        ],
+        "employees": "4429 - 7239",
+        "revenues": "$82M - $586M",
+        "established": 1979,
+        "organizationStructure": "Healthcare",
+        "councils": [
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Wayne Gonzalez",
+                "designation": "CEO",
+                "email": "eskinner@hotmail.com"
+            },
+            {
+                "name": "Erin Smith",
+                "designation": "CTO",
+                "email": "hansenjeremy@yahoo.com"
+            },
+            {
+                "name": "Mary Matthews",
+                "designation": "CFO",
+                "email": "jennifer11@yahoo.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            }
+        ],
+        "website": "https://roman.org/",
+        "contactNumber": "+1-994-051-5011x99990",
+        "certifications": [
+            "ISO 27001"
+        ],
+        "partnerships": [
+            "SolarCity"
+        ]
+    },
+    {
+        "id": 32,
+        "companyName": "Kelly-Holland",
+        "address": "007 Johnson Place\nPort Amanda, AL 39815",
+        "socialNetworks": [
+            "http://wolfe.com/",
+            "http://guerra.biz/",
+            "http://duncan-porter.com/"
+        ],
+        "employees": "3080 - 8739",
+        "revenues": "$61M - $651M",
+        "established": 1990,
+        "organizationStructure": "Education",
+        "councils": [
+            "Startup Council",
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Donna Morrow",
+                "designation": "CEO",
+                "email": "graydiamond@hotmail.com"
+            },
+            {
+                "name": "Sean Phillips MD",
+                "designation": "CTO",
+                "email": "nathanielparker@collins.com"
+            },
+            {
+                "name": "Sarah Diaz",
+                "designation": "CFO",
+                "email": "llee@york.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "https://howard-hudson.com/",
+        "contactNumber": "019.239.1849x57911",
+        "certifications": [
+            "HIPAA Compliant",
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "Tesla Energy",
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 33,
+        "companyName": "Bautista-Ball",
+        "address": "85360 Sanchez Curve Suite 027\nWest Brian, MA 17970",
+        "socialNetworks": [
+            "https://www.powers.com/",
+            "https://schneider.biz/",
+            "http://www.costa-johnson.com/"
+        ],
+        "employees": "1840 - 5676",
+        "revenues": "$83M - $129M",
+        "established": 1991,
+        "organizationStructure": "Education",
+        "councils": [
+            "Startup Council"
+        ],
+        "executives": [
+            {
+                "name": "Victoria Martinez",
+                "designation": "CEO",
+                "email": "james23@price-miller.com"
+            },
+            {
+                "name": "Jennifer Krueger",
+                "designation": "CTO",
+                "email": "tshelton@oneill-smith.biz"
+            },
+            {
+                "name": "Kristen Tran",
+                "designation": "CFO",
+                "email": "gonzalezrebecca@fuentes-frank.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "http://www.hawkins.com/",
+        "contactNumber": "893-617-7994x0413",
+        "certifications": [
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "SolarCity"
+        ]
+    },
+    {
+        "id": 34,
+        "companyName": "King-Wilson",
+        "address": "9705 Natalie Crossing\nWest Robert, ME 23139",
+        "socialNetworks": [
+            "http://estrada-juarez.com/",
+            "http://www.prince-chandler.net/",
+            "http://www.paul.biz/"
+        ],
+        "employees": "533 - 8063",
+        "revenues": "$44M - $392M",
+        "established": 1972,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Sustainability Board",
+            "Innovation Hub",
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Jessica Richardson",
+                "designation": "CEO",
+                "email": "monica41@hotmail.com"
+            },
+            {
+                "name": "Jennifer Freeman",
+                "designation": "CTO",
+                "email": "youngchristian@cook.com"
+            },
+            {
+                "name": "Megan Gonzales",
+                "designation": "CFO",
+                "email": "xroberts@hernandez.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            }
+        ],
+        "website": "http://www.irwin-walls.net/",
+        "contactNumber": "+1-930-135-8387x488",
+        "certifications": [
+            "ISO 27001"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "Microsoft Partner",
+            "AWS Partner Network"
+        ]
+    },
+    {
+        "id": 35,
+        "companyName": "Wilson, Howard and Mcdowell",
+        "address": "37492 April Island Suite 595\nBrandtland, IA 78609",
+        "socialNetworks": [
+            "http://www.perry-morton.net/",
+            "https://www.cook.org/",
+            "https://white.biz/"
+        ],
+        "employees": "1746 - 6403",
+        "revenues": "$86M - $122M",
+        "established": 2007,
+        "organizationStructure": "Technology",
+        "councils": [
+            "Innovation Hub",
+            "Sustainability Board",
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Dylan Mcintosh",
+                "designation": "CEO",
+                "email": "nicholasarcher@yahoo.com"
+            },
+            {
+                "name": "Samuel Cooper",
+                "designation": "CTO",
+                "email": "rhenderson@johnson.com"
+            },
+            {
+                "name": "Julie Black",
+                "designation": "CFO",
+                "email": "colemanblake@yahoo.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            }
+        ],
+        "website": "https://www.powell-dean.com/",
+        "contactNumber": "0162779950",
+        "certifications": [
+            "ISO 27001",
+            "Energy Star Partner",
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "Tesla Energy"
+        ]
+    },
+    {
+        "id": 36,
+        "companyName": "Johnson Inc",
+        "address": "839 Deborah River Apt. 718\nCannonton, OR 00678",
+        "socialNetworks": [
+            "http://www.daugherty.com/",
+            "https://www.smith.com/",
+            "https://chandler-adams.com/"
+        ],
+        "employees": "2186 - 8888",
+        "revenues": "$31M - $133M",
+        "established": 1983,
+        "organizationStructure": "Education",
+        "councils": [
+            "Environmental Council",
+            "Sustainability Board"
+        ],
+        "executives": [
+            {
+                "name": "Kenneth Clarke",
+                "designation": "CEO",
+                "email": "karen96@hotmail.com"
+            },
+            {
+                "name": "Katie Patrick DVM",
+                "designation": "CTO",
+                "email": "schultzgregory@gmail.com"
+            },
+            {
+                "name": "Kelly Patel",
+                "designation": "CFO",
+                "email": "ricardo38@dickerson-hernandez.org"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            }
+        ],
+        "website": "http://day.com/",
+        "contactNumber": "060-252-4408",
+        "certifications": [
+            "HIPAA Compliant"
+        ],
+        "partnerships": [
+            "Google Cloud Partner",
+            "Tesla Energy"
+        ]
+    },
+    {
+        "id": 37,
+        "companyName": "Medina Ltd",
+        "address": "823 Kimberly Ports Suite 541\nNew Erinport, HI 23796",
+        "socialNetworks": [
+            "http://www.garcia.com/",
+            "https://www.shelton.com/",
+            "http://garcia.com/"
+        ],
+        "employees": "3492 - 8648",
+        "revenues": "$26M - $270M",
+        "established": 1979,
+        "organizationStructure": "Healthcare",
+        "councils": [
+            "Tech Alliance",
+            "Innovation Hub",
+            "Sustainability Board"
+        ],
+        "executives": [
+            {
+                "name": "Meghan Hendrix",
+                "designation": "CEO",
+                "email": "isaacsmith@yahoo.com"
+            },
+            {
+                "name": "Luis Wood",
+                "designation": "CTO",
+                "email": "andersonmatthew@hotmail.com"
+            },
+            {
+                "name": "Brenda Suarez",
+                "designation": "CFO",
+                "email": "jacobsalazar@yahoo.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            }
+        ],
+        "website": "http://www.sawyer.com/",
+        "contactNumber": "416.754.5039x74697",
+        "certifications": [
+            "ISO 27001",
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "Google Cloud Partner"
+        ]
+    },
+    {
+        "id": 38,
+        "companyName": "Bell PLC",
+        "address": "1646 Mcknight Trail\nEast Annette, NC 58050",
+        "socialNetworks": [
+            "http://www.newman.biz/",
+            "http://diaz-ramos.org/",
+            "http://middleton.biz/"
+        ],
+        "employees": "1890 - 6916",
+        "revenues": "$26M - $869M",
+        "established": 2002,
+        "organizationStructure": "Corporation",
+        "councils": [
+            "Innovation Hub"
+        ],
+        "executives": [
+            {
+                "name": "Lori Lee",
+                "designation": "CEO",
+                "email": "floreseric@cooley-hernandez.net"
+            },
+            {
+                "name": "Kenneth Williams DDS",
+                "designation": "CTO",
+                "email": "josephjones@webb.com"
+            },
+            {
+                "name": "Kathy Moyer",
+                "designation": "CFO",
+                "email": "michaelarodriguez@hotmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "https://rivera-watson.com/",
+        "contactNumber": "3930689488",
+        "certifications": [
+            "Energy Star Partner",
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 39,
+        "companyName": "Sanchez, Hickman and Bradley",
+        "address": "18429 Steven Ridge Suite 977\nEast Nicolemouth, WY 18346",
+        "socialNetworks": [
+            "https://www.estrada.com/",
+            "https://www.campbell.com/",
+            "https://www.santos.net/"
+        ],
+        "employees": "2543 - 7138",
+        "revenues": "$65M - $350M",
+        "established": 1975,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Tony Maxwell",
+                "designation": "CEO",
+                "email": "patriciabarry@hotmail.com"
+            },
+            {
+                "name": "Kelsey Gregory",
+                "designation": "CTO",
+                "email": "ewheeler@yahoo.com"
+            },
+            {
+                "name": "Michael Johnson",
+                "designation": "CFO",
+                "email": "idavis@yahoo.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            }
+        ],
+        "website": "http://www.sanders.org/",
+        "contactNumber": "849.291.2332",
+        "certifications": [
+            "ISO 9001",
+            "ISO 27001",
+            "HIPAA Compliant"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "Google Cloud Partner",
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 40,
+        "companyName": "Grimes-Cuevas",
+        "address": "4612 Edward Drives Suite 369\nPaulabury, NE 49965",
+        "socialNetworks": [
+            "https://wood.com/",
+            "http://baker.com/",
+            "http://kirk.com/"
+        ],
+        "employees": "1782 - 7623",
+        "revenues": "$30M - $761M",
+        "established": 1983,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Startup Council",
+            "Environmental Council"
+        ],
+        "executives": [
+            {
+                "name": "Luis Taylor",
+                "designation": "CEO",
+                "email": "merrittmichael@roberson.com"
+            },
+            {
+                "name": "Jason Weber",
+                "designation": "CTO",
+                "email": "laurenwaller@beck.biz"
+            },
+            {
+                "name": "Pamela Watkins",
+                "designation": "CFO",
+                "email": "kelly62@yahoo.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            }
+        ],
+        "website": "http://www.moore-kennedy.com/",
+        "contactNumber": "192-989-3737",
+        "certifications": [
+            "HIPAA Compliant"
+        ],
+        "partnerships": [
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 41,
+        "companyName": "Brown PLC",
+        "address": "6894 Parker Curve Suite 781\nNew Johnny, NM 81567",
+        "socialNetworks": [
+            "http://www.gonzalez-clayton.com/",
+            "https://www.mcintosh-rivera.com/",
+            "https://www.walker.com/"
+        ],
+        "employees": "600 - 5140",
+        "revenues": "$82M - $165M",
+        "established": 1988,
+        "organizationStructure": "Education",
+        "councils": [
+            "Sustainability Board",
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Matthew Green",
+                "designation": "CEO",
+                "email": "hannah57@hotmail.com"
+            },
+            {
+                "name": "Patricia Davis",
+                "designation": "CTO",
+                "email": "spearsemily@gmail.com"
+            },
+            {
+                "name": "Brian Blankenship",
+                "designation": "CFO",
+                "email": "sharon82@hotmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "https://chaney-reyes.org/",
+        "contactNumber": "167-152-9999",
+        "certifications": [
+            "ISO 27001",
+            "LEED Certified"
+        ],
+        "partnerships": [
+            "Google Cloud Partner",
+            "Microsoft Partner",
+            "Tesla Energy"
+        ]
+    },
+    {
+        "id": 42,
+        "companyName": "Hernandez, Heath and Morris",
+        "address": "245 Kelsey Road\nPort Brittany, VA 52677",
+        "socialNetworks": [
+            "http://pitts.com/",
+            "https://www.valencia-duncan.com/",
+            "https://www.wagner-ellis.com/"
+        ],
+        "employees": "1088 - 6589",
+        "revenues": "$70M - $696M",
+        "established": 1987,
+        "organizationStructure": "Education",
+        "councils": [
+            "Sustainability Board",
+            "Startup Council"
+        ],
+        "executives": [
+            {
+                "name": "Deborah Charles",
+                "designation": "CEO",
+                "email": "upowell@gmail.com"
+            },
+            {
+                "name": "Danielle Wade",
+                "designation": "CTO",
+                "email": "qbarton@vargas.biz"
+            },
+            {
+                "name": "Andrea Bailey",
+                "designation": "CFO",
+                "email": "allison79@gmail.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "http://newton.net/",
+        "contactNumber": "001-116-760-0555x64361",
+        "certifications": [
+            "LEED Certified",
+            "HIPAA Compliant",
+            "Energy Star Partner"
+        ],
+        "partnerships": [
+            "Microsoft Partner",
+            "AWS Partner Network"
+        ]
+    },
+    {
+        "id": 43,
+        "companyName": "Fletcher Group",
+        "address": "070 Bowers Island\nToddshire, DC 20942",
+        "socialNetworks": [
+            "http://www.lee.com/",
+            "http://www.walker.org/",
+            "https://king.com/"
+        ],
+        "employees": "2564 - 9474",
+        "revenues": "$57M - $902M",
+        "established": 1992,
+        "organizationStructure": "Education",
+        "councils": [
+            "Sustainability Board",
+            "Startup Council",
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Stephanie Brown",
+                "designation": "CEO",
+                "email": "lrivera@hotmail.com"
+            },
+            {
+                "name": "Ryan Morris",
+                "designation": "CTO",
+                "email": "shieldsjoshua@williams.com"
+            },
+            {
+                "name": "Adam Beck",
+                "designation": "CFO",
+                "email": "georgechristian@larson-coleman.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            }
+        ],
+        "website": "http://myers.com/",
+        "contactNumber": "+1-096-280-7630x3333",
+        "certifications": [
+            "Energy Star Partner"
+        ],
+        "partnerships": [
+            "Tesla Energy"
+        ]
+    },
+    {
+        "id": 44,
+        "companyName": "Zimmerman Inc",
+        "address": "366 Smith Station Apt. 732\nNicholsside, WY 41733",
+        "socialNetworks": [
+            "http://www.olsen.org/",
+            "http://www.gordon.com/",
+            "https://phillips.biz/"
+        ],
+        "employees": "2374 - 5707",
+        "revenues": "$87M - $995M",
+        "established": 2009,
+        "organizationStructure": "Technology",
+        "councils": [
+            "Innovation Hub"
+        ],
+        "executives": [
+            {
+                "name": "Karen Le",
+                "designation": "CEO",
+                "email": "hilljennifer@hartman.com"
+            },
+            {
+                "name": "Mark Jimenez",
+                "designation": "CTO",
+                "email": "pmorales@yahoo.com"
+            },
+            {
+                "name": "Meredith Lowery",
+                "designation": "CFO",
+                "email": "howellmelissa@yahoo.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            }
+        ],
+        "website": "https://becker.info/",
+        "contactNumber": "618-764-5583x6632",
+        "certifications": [
+            "Energy Star Partner",
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "AWS Partner Network"
+        ]
+    },
+    {
+        "id": 45,
+        "companyName": "Taylor Inc",
+        "address": "001 Wright Point\nLake Lindsay, WI 49578",
+        "socialNetworks": [
+            "http://www.alvarez.com/",
+            "https://rose-taylor.com/",
+            "http://www.turner-smith.info/"
+        ],
+        "employees": "3094 - 5543",
+        "revenues": "$49M - $902M",
+        "established": 1973,
+        "organizationStructure": "Technology",
+        "councils": [
+            "Startup Council"
+        ],
+        "executives": [
+            {
+                "name": "Amanda Bass",
+                "designation": "CEO",
+                "email": "cody64@hotmail.com"
+            },
+            {
+                "name": "Victoria Smith",
+                "designation": "CTO",
+                "email": "bassjohnny@yahoo.com"
+            },
+            {
+                "name": "Rachel Moore",
+                "designation": "CFO",
+                "email": "michellepowers@yahoo.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            }
+        ],
+        "website": "http://nguyen.org/",
+        "contactNumber": "040-156-1400x619",
+        "certifications": [
+            "HIPAA Compliant"
+        ],
+        "partnerships": [
+            "Microsoft Partner",
+            "SolarCity"
+        ]
+    },
+    {
+        "id": 46,
+        "companyName": "Nelson Group",
+        "address": "559 Phillips Course\nPort Timothy, MT 02938",
+        "socialNetworks": [
+            "https://www.tran.com/",
+            "http://thomas-jensen.com/",
+            "http://snyder.com/"
+        ],
+        "employees": "1200 - 6413",
+        "revenues": "$62M - $348M",
+        "established": 1987,
+        "organizationStructure": "Corporation",
+        "councils": [
+            "Startup Council",
+            "Environmental Council",
+            "Innovation Hub"
+        ],
+        "executives": [
+            {
+                "name": "Dawn Rodriguez",
+                "designation": "CEO",
+                "email": "emilydean@meyers.biz"
+            },
+            {
+                "name": "Sandra Chen",
+                "designation": "CTO",
+                "email": "janicejohnson@cook.net"
+            },
+            {
+                "name": "Nathan Wall",
+                "designation": "CFO",
+                "email": "robertsamber@harper-chen.org"
+            }
+        ],
+        "products": [
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            }
+        ],
+        "website": "http://baker.com/",
+        "contactNumber": "194-212-8163",
+        "certifications": [
+            "ISO 27001",
+            "LEED Certified"
+        ],
+        "partnerships": [
+            "Microsoft Partner"
+        ]
+    },
+    {
+        "id": 47,
+        "companyName": "Simmons LLC",
+        "address": "543 Gonzalez Loaf\nRodriguezburgh, GA 97128",
+        "socialNetworks": [
+            "https://www.hughes-may.com/",
+            "http://www.gonzalez.com/",
+            "http://www.sandoval.net/"
+        ],
+        "employees": "2163 - 8128",
+        "revenues": "$45M - $953M",
+        "established": 2011,
+        "organizationStructure": "Corporation",
+        "councils": [
+            "Startup Council"
+        ],
+        "executives": [
+            {
+                "name": "Brett Guzman",
+                "designation": "CEO",
+                "email": "brewerrichard@yahoo.com"
+            },
+            {
+                "name": "Heather Caldwell",
+                "designation": "CTO",
+                "email": "mitchellemily@yahoo.com"
+            },
+            {
+                "name": "Brandon Kennedy",
+                "designation": "CFO",
+                "email": "bpope@hawkins.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            },
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            }
+        ],
+        "website": "https://www.black.com/",
+        "contactNumber": "698.698.9478",
+        "certifications": [
+            "HIPAA Compliant",
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "AWS Partner Network"
+        ]
+    },
+    {
+        "id": 48,
+        "companyName": "Myers Ltd",
+        "address": "Unit 7823 Box 0878\nDPO AP 62422",
+        "socialNetworks": [
+            "http://www.woods-armstrong.com/",
+            "http://clark.com/",
+            "http://www.cochran-walker.info/"
+        ],
+        "employees": "1390 - 8524",
+        "revenues": "$33M - $177M",
+        "established": 1980,
+        "organizationStructure": "Healthcare",
+        "councils": [
+            "Innovation Hub",
+            "Startup Council",
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Kristin Lloyd",
+                "designation": "CEO",
+                "email": "lskinner@washington.net"
+            },
+            {
+                "name": "Elizabeth Rice",
+                "designation": "CTO",
+                "email": "jamesallen@hotmail.com"
+            },
+            {
+                "name": "Mark Ward",
+                "designation": "CFO",
+                "email": "danielreese@taylor.com"
+            }
+        ],
+        "products": [
+            {
+                "productName": "SmartFit",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "AI-powered fitness tracker."
+            },
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            }
+        ],
+        "website": "https://www.bender.com/",
+        "contactNumber": "(462)392-6751x342",
+        "certifications": [
+            "ISO 9001"
+        ],
+        "partnerships": [
+            "SolarCity",
+            "Tesla Energy"
+        ]
+    },
+    {
+        "id": 49,
+        "companyName": "Johnson-Dean",
+        "address": "88834 Hill Heights Apt. 099\nWest Ryan, ND 73129",
+        "socialNetworks": [
+            "https://www.davis.biz/",
+            "http://www.reyes-gutierrez.com/",
+            "http://www.garcia-parker.com/"
+        ],
+        "employees": "2000 - 5243",
+        "revenues": "$28M - $169M",
+        "established": 1991,
+        "organizationStructure": "Manufacturing",
+        "councils": [
+            "Tech Alliance",
+            "Environmental Council",
+            "Startup Council"
+        ],
+        "executives": [
+            {
+                "name": "Felicia Steele",
+                "designation": "CEO",
+                "email": "rcooper@myers-johnson.org"
+            },
+            {
+                "name": "Nicholas Shaw",
+                "designation": "CTO",
+                "email": "nstephens@gamble-bell.com"
+            },
+            {
+                "name": "David Baldwin",
+                "designation": "CFO",
+                "email": "caseymelissa@vasquez.org"
+            }
+        ],
+        "products": [
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "EduLearn",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "E-learning platform for students."
+            }
+        ],
+        "website": "https://www.hughes-myers.net/",
+        "contactNumber": "180.925.4268",
+        "certifications": [
+            "ISO 9001",
+            "HIPAA Compliant",
+            "Energy Star Partner"
+        ],
+        "partnerships": [
+            "AWS Partner Network",
+            "SolarCity"
+        ]
+    },
+    {
+        "id": 50,
+        "companyName": "Mclaughlin, Finley and Tucker",
+        "address": "58249 Kari Inlet\nLake Kathrynton, DC 75897",
+        "socialNetworks": [
+            "http://www.white.org/",
+            "https://mckenzie.com/",
+            "https://burke.com/"
+        ],
+        "employees": "1282 - 5769",
+        "revenues": "$97M - $900M",
+        "established": 1989,
+        "organizationStructure": "Education",
+        "councils": [
+            "Tech Alliance"
+        ],
+        "executives": [
+            {
+                "name": "Daniel Woods",
+                "designation": "CEO",
+                "email": "jeffrey14@fleming.com"
+            },
+            {
+                "name": "Judy Williams",
+                "designation": "CTO",
+                "email": "carolynduncan@walker.com"
+            },
+            {
+                "name": "Matthew Wright",
+                "designation": "CFO",
+                "email": "sarah81@flores.info"
+            }
+        ],
+        "products": [
+            {
+                "productName": "GreenEnergy Solar Panels",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "High-efficiency solar panels."
+            },
+            {
+                "productName": "EcoPack",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A biodegradable packaging solution."
+            },
+            {
+                "productName": "NovaCloud",
+                "productImage": "https://via.placeholder.com/150",
+                "description": "A scalable cloud storage platform."
+            }
+        ],
+        "website": "http://www.wolf.biz/",
+        "contactNumber": "001-245-220-3209",
+        "certifications": [
+            "LEED Certified"
+        ],
+        "partnerships": [
+            "AWS Partner Network",
+            "SolarCity"
+        ]
+    }
+]
